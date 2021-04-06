@@ -1,6 +1,6 @@
 # A class project
 
-Takes a .txt file, creates a dictionary, then attempts to generate new text based off the source.
+Takes a .txt file and then generates new text based off the .txt.
 
 ## To use:
 
